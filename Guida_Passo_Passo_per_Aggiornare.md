@@ -1,6 +1,6 @@
 # Guida Passo Passo per Aggiornare i Personaggi da D&D 5e 2014 a 2024 su D&D Beyond
 
-Questa guida dettagliata ti accompagnerà nella transizione dei tuoi personaggi da Dungeons & Dragons 5e (2014) alla versione 2024 su D&D Beyond, con un focus particolare sulla gestione di sottoclassi come la Scuola di Necromanzia per un Mago. È scritta interamente in italiano, considerando che i tuoi giocatori non parlano inglese, e include istruzioni precise per minimizzare i traumi durante il processo. Ogni passaggio è spiegato con chiarezza, includendo come gestire eventuali conflitti.
+Questa guida dettagliata ti accompagnerà nella transizione dei tuoi personaggi da Dungeons & Dragons 5e (2014) alla versione 2024 su D&D Beyond, con un focus particolare sulla gestione di sottoclassi come la Scuola di Necromanzia per un Mago. È scritta interamente in italiano e include istruzioni precise per minimizzare i traumi durante il processo. Ogni passaggio è spiegato con chiarezza, includendo come gestire eventuali conflitti.
 
 ---
 
