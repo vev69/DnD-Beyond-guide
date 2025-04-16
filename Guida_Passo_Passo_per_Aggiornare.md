@@ -108,7 +108,7 @@ Ecco una panoramica dei passaggi per aggiornare qualsiasi personaggio, seguita d
 ### 7. Gestisci la Sottoclasse (es. Scuola di Necromanzia)
 
 **Azioni da Fare:**
-- Al **livello 3** (nel 2024, le sottoclassi del Mago sono scelte al livello 3, a differenza del livello 2 nel 2014), seleziona la sottoclasse.
+- Al **livello 3** (nell'edizione 2024, le sottoclassi del Mago sono scelte al livello 3, a differenza del livello 2 nella versione 2014), seleziona la sottoclasse.
 - Abilita il contenuto **legacy** nelle impostazioni del Costruttore (cerca un’opzione come "Show Legacy Content").
 - Scegli **Scuola di Necromanzia** (contrassegnata come "legacy") dalla lista.
 - D&D Beyond adatterà automaticamente le caratteristiche, spostando quelle di livello 2 (es. *Necromancy Savant* e *Grim Harvest*) al livello 3.
