@@ -108,18 +108,20 @@ Ecco una panoramica dei passaggi per aggiornare qualsiasi personaggio, seguita d
 ### 7. Gestisci la Sottoclasse (es. Scuola di Necromanzia)
 
 **Azioni da Fare:**
-- Al **livello 3** (nel 2024, le sottoclassi del Mago sono scelte al livello 3, non al 2 come nel 2014), seleziona la sottoclasse.
+- Al **livello 3** (nel 2024, le sottoclassi del Mago sono scelte al livello 3, a differenza del livello 2 nel 2014), seleziona la sottoclasse.
 - Abilita il contenuto **legacy** nelle impostazioni del Costruttore (cerca un’opzione come "Show Legacy Content").
 - Scegli **Scuola di Necromanzia** (contrassegnata come "legacy") dalla lista.
 - D&D Beyond adatterà automaticamente le caratteristiche, spostando quelle di livello 2 (es. *Necromancy Savant* e *Grim Harvest*) al livello 3.
-- Verifica le caratteristiche successive (es. *Undead Thralls* al livello 6, *Inured to Undeath* al livello 10, *Command Undead* al livello 14) per assicurarti che siano applicate correttamente.
+- Verifica le caratteristiche successive (es. *Undead Thralls* al livello 6, *Inured to Undeath* al livello 10, *Command Undead* al livello 14).
+
+**Nota:** Nel 2014, il Mago sceglie la Scuola Arcana al livello 2, mentre nel 2024 avviene al livello 3. Se il tuo personaggio 2014 ha la sottoclasse al livello 3 per errore, discutilo con il DM per correggere o mantenere questa scelta.
 
 **Gestione Conflitti:**
-- **Livelli delle caratteristiche:** Poiché la sottoclasse è scelta al livello 3 nel 2024, le caratteristiche di livello 2 del 2014 sono spostate al livello 3, come confermato da [Dungeons & Dragons Confirms That Old Subclasses Can Be Used With 2024 Class Rules](https://comicbook.com/gaming/news/dungeons-dragons-2024-players-handbook-old-subclasses/).
-- **Interazioni regole:** Se una caratteristica come *Undead Thralls* (che potenzia i non morti) interagisce diversamente con incantesimi aggiornati (es. *Animate Dead*), usa le versioni 2024 degli incantesimi e consulta il DM per chiarimenti.
-- **DM Approval:** Se D&D Beyond non gestisce perfettamente l’adattamento, discuti con il DM per approvare eventuali modifiche manuali.
+- **Livelli delle caratteristiche:** Le feature di livello 2 (2014) sono spostate al livello 3 (2024), come confermato da [Dungeons & Dragons Confirms That Old Subclasses Can Be Used With 2024 Class Rules](https://comicbook.com/gaming/news/dungeons-dragons-2014-subclasses-2024-class-rules/).
+- **Interazioni regole:** Verifica incantesimi come *Animate Dead* per adattamenti nel 2024.
+- **DM Approval:** Collabora con il DM per risolvere discrepanze.
 
-**Perché è Importante:** La Scuola di Necromanzia non è nel Manuale 2024, ma la retrocompatibilità permette di usarla come opzione legacy, con adattamenti minimi gestiti da D&D Beyond.
+**Perché è Importante:** La retrocompatibilità permette di usare la Scuola di Necromanzia (legacy) con il Mago 2024, con D&D Beyond che gestisce gli adattamenti.
 
 ---
 
