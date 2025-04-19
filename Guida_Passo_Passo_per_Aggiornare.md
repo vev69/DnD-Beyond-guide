@@ -34,13 +34,21 @@ Ecco una panoramica dei passaggi per aggiornare qualsiasi personaggio, seguita d
 
 ### 1. Crea una Copia di Backup del Personaggio
 
-**Azioni da Fare:**
+**Azioni da Fare (Sito Web):**
 - Accedi a [D&D Beyond](https://www.dndbeyond.com) e fai login con il tuo account.
 - Vai alla sezione **"My Characters"** (I Miei Personaggi) nel menu in alto.
 - Trova il personaggio da aggiornare (es. "Gandalf il Necromante") nell'elenco.
-- Clicca sui tre puntini verticali (⋮) a destra del nome del personaggio.
-- Seleziona **"Duplicate"** (Duplica) dal menu a tendina.
-- Rinomina la copia, ad esempio, "Gandalf - Backup 2014", cliccando sul nome e modificandolo.
+- Clicca su **Copy** (Copia) in basso sotto il nome del personaggio.
+- Seleziona **"Copy"**  dal menu a tendina che chiede conferma.
+- Rinomina la copia, ad esempio, "Gandalf - Backup 2014", cliccando su **Edit**  e modificando il nome.
+
+**Azioni da Fare (iOS App mobile):**
+- Accedi all'APP Mobile [D&D Beyond] e fai login con il tuo account.
+- Vai alla sezione **"My Characters"** (I Miei Personaggi) nel menu in basso.
+- Trova il personaggio da aggiornare (es. "Gandalf il Necromante") nell'elenco.
+- Clicca sui tre puntini orizzontali (...) a destra del nome del personaggio.
+- Seleziona **"Copy Character"** (Copia) dal menu a tendina.
+- Rinomina la copia, ad esempio, "Gandalf - Backup 2014", cliccando su **Edit Character** e modificandolo.
 
 **Perché è Importante:** La copia di backup preserva la versione originale del personaggio, permettendoti di tornare indietro in caso di errori o se preferisci mantenere la versione 2014.
 
