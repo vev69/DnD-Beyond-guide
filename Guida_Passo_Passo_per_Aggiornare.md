@@ -11,7 +11,7 @@ Questa guida dettagliata ti accompagnerà nella transizione dei tuoi personaggi 
 - **Lingua:** Tutte le istruzioni sono in italiano, con termini inglesi dell'interfaccia D&D Beyond indicati tra parentesi.
 
 ---
-
+<a id="sommario"></a>
 ## Passaggi Generali per la Conversione
 
 Ecco una panoramica dei passaggi per aggiornare qualsiasi personaggio, seguita da una spiegazione dettagliata per ogni step, con esempi specifici per un Mago Necromancer.
@@ -85,6 +85,8 @@ Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo a
 
 **Perché è Importante:** La copia di backup preserva la versione originale del personaggio, permettendoti di tornare indietro in caso di errori o se preferisci mantenere la versione 2014.
 
+[Torna al Sommario](#sommario)
+
 ---
 
 <a id="2-annota-i-punti-ferita"></a>
@@ -97,6 +99,8 @@ Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo a
 
 **Perché è Importante:** Le modifiche ai dadi vita o altre regole nel 2024 potrebbero alterare i PF. Annotarli ti permette di confrontarli e correggerli se necessario.
 
+[Torna al Sommario](#sommario)
+
 ---
 
 <a id="3-accedi-al-costruttore-del-personaggio"></a>
@@ -107,6 +111,8 @@ Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo a
 - Si aprirà il **Costruttore del Personaggio**, dove puoi modificare classe, specie, background, ecc.
 
 **Perché è Importante:** Il Costruttore è lo strumento principale per aggiornare il personaggio alle regole 2024.
+
+[Torna al Sommario](#sommario)
 
 ---
 
@@ -121,6 +127,8 @@ Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo a
 
 **Perché è Importante:** Aggiungere la classe 2024 ti dà accesso alle regole aggiornate, come il nuovo sistema di preparazione degli incantesimi per il Mago.
 
+[Torna al Sommario](#sommario)
+
 ---
 
 <a id="5-rimuovi-i-livelli-della-classe-2014"></a>
@@ -132,6 +140,8 @@ Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo a
 - Conferma la rimozione nella finestra pop-up.
 
 **Perché è Importante:** Eliminare la classe 2014 evita conflitti tra vecchie e nuove regole, permettendo una ricostruzione pulita.
+
+[Torna al Sommario](#sommario)
 
 ---
 
@@ -148,6 +158,8 @@ Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo a
 - Usa il Manuale del Giocatore 2024 o D&D Beyond per guidarti nelle nuove opzioni.
 
 **Perché è Importante:** Questo passaggio ricostruisce il personaggio con le regole 2024, aggiornando tutte le sue capacità.
+
+[Torna al Sommario](#sommario)
 
 ---
 
@@ -170,6 +182,8 @@ Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo a
 
 **Perché è Importante:** La retrocompatibilità permette di usare la Scuola di Necromanzia (legacy) con il Mago 2024, con D&D Beyond che gestisce gli adattamenti.
 
+[Torna al Sommario](#sommario)
+
 ---
 
 <a id="8-aggiorna-il-background-opzionale"></a>
@@ -182,6 +196,8 @@ Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo a
 
 **Perché è Importante:** I background 2024 offrono vantaggi aggiuntivi, ma puoi mantenere il background 2014 se preferisci.
 
+[Torna al Sommario](#sommario)
+
 ---
 
 <a id="9-aggiorna-la-specie-opzionale"></a>
@@ -193,6 +209,8 @@ Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo a
 - Se non c’è una versione 2024, mantieni la specie 2014.
 
 **Perché è Importante:** Le specie 2024 possono offrire tratti migliorati, ma la scelta è opzionale.
+
+[Torna al Sommario](#sommario)
 
 ---
 
@@ -210,6 +228,8 @@ Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo a
 - **Consultazione con il DM:** Se preferisci un incantesimo legacy per motivi narrativi, chiedi al DM di approvarlo, come suggerito in [How To Change Your DnD Character To 2024 Rules](https://startplaying.games/blog/posts/how-to-change-dnd-character-sheet-2024-rules-dd-beyond).
 
 **Perché è Importante:** Gli incantesimi 2024 sono bilanciati per le nuove regole, e usarli garantisce coerenza.
+
+[Torna al Sommario](#sommario)
 
 ---
 
@@ -229,6 +249,8 @@ Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo a
 
 **Perché è Importante:** Questo passaggio elimina incongruenze, rendendo il personaggio completamente compatibile con il 2024.
 
+[Torna al Sommario](#sommario)
+
 ---
 
 ## Esempio Pratico: Conversione di un Mago Necromancer
@@ -246,6 +268,8 @@ Supponiamo che il tuo Mago Necromancer sia al **livello 6** nel 2014:
 **Conflitti Potenziali:**
 - Se *Animate Dead* nel 2024 controlla meno non morti rispetto al 2014, discuti con il DM per mantenere un equilibrio narrativo.
 - Se i PF cambiano a causa di nuovi dadi vita, usa i PF annotati come riferimento e negozia con il DM.
+
+[Torna al Sommario](#sommario)
 
 ---
 
@@ -270,6 +294,8 @@ Questa tabella mostra come le caratteristiche della Scuola di Necromanzia (2014)
 | Incantesimi Preparati           | Intelligenza + Livello               | Numero fisso per livello             |
 | Sottoclassi nel Manuale         | Tutte (inclusa Necromanzia)          | Solo Abjurer, Diviner, Evoker, Illusionist |
 
+[Torna al Sommario](#sommario)
+
 ---
 
 ## Risorse Utili
@@ -278,6 +304,8 @@ Questa tabella mostra come le caratteristiche della Scuola di Necromanzia (2014)
   - [PSA: Here's how to update your D&D Beyond Character from 2014 to 2024](https://www.reddit.com/r/DnD/comments/1f9b05g/psa_heres_how_to_update_your_dd_beyond_character/)
   - [How To Change Your DnD Character To 2024 Rules](https://startplaying.games/blog/posts/how-to-change-dnd-character-sheet-2024-rules-dd-beyond)
 - **Changelog D&D Beyond:** [Changelog](https://www.dndbeyond.com/changelog)
+
+[Torna al Sommario](#sommario)
 
 ---
 
@@ -288,6 +316,8 @@ Seguendo questa guida, puoi aggiornare il tuo Mago Necromancer e altri personagg
 - Usa D&D Beyond per automatizzare gran parte del processo, ma verifica ogni passaggio.
 
 Buon divertimento con i tuoi personaggi aggiornati!
+
+[Torna al Sommario](#sommario)
 
 ---
 
