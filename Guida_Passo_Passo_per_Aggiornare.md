@@ -175,7 +175,7 @@ Ecco una panoramica dei passaggi per aggiornare qualsiasi personaggio, seguita d
 
 **Azioni da Fare:**
 - Vai alla sezione **"Feats"** (Talenti) e verifica che i talenti siano compatibili con il 2024. Seleziona versioni aggiornate se necessario.
-- Nella sezione **"Equipment"** (Equipaggiamento), controlla armi e oggetti, notando eventuali nuove meccaniche come la Maestria delle Armi.
+- Nella sezione **"Equipment"** (Equipaggiamento), controlla armi e oggetti, notando eventuali nuove meccaniche come la Maestria delle Armi. Se esiste l'oggetto 2024 sostituiscilo.
 - Confronta i PF con quelli annotati e aggiustali se necessario, in base ai nuovi dadi vita o regole.
 - Verifica le monete e gli altri tesori e riportali se mancanti.
 - Verifica abilità, lingue e altri dettagli per allinearli al background e alla specie scelti.
