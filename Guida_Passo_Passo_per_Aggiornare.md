@@ -16,23 +16,24 @@ Questa guida dettagliata ti accompagnerà nella transizione dei tuoi personaggi 
 
 Ecco una panoramica dei passaggi per aggiornare qualsiasi personaggio, seguita da una spiegazione dettagliata per ogni step, con esempi specifici per un Mago Necromancer.
 
-0. **Sfruttare la Content Sharing per i Nuovi Personaggi**
-1. **Crea una copia di backup del personaggio**
-2. **Annota i Punti Ferita (PF)**
-3. **Accedi al Costruttore del Personaggio**
-4. **Aggiungi la classe 2024**
-5. **Rimuovi i livelli della classe 2014**
-6. **Aumenta di livello con la classe 2024**
-7. **Gestisci la sottoclasse (es. Scuola di Necromanzia)**
-8. **Aggiorna il background (opzionale)**
-9. **Aggiorna la specie (opzionale)**
-10. **Riseleziona gli incantesimi**
-11. **Rivedi talenti, equipaggiamento e altri dettagli**
+- [0. Sfruttare la Content Sharing](#0-sfruttare-la-content-sharing)
+- [1. Crea una copia di backup](#1-crea-una-copia-di-backup)
+- [2. Annota i Punti Ferita](#2-annota-i-punti-ferita)
+- [3. Accedi al Costruttore del Personaggio](#3-accedi-al-costruttore-del-personaggio)
+- [4. Aggiungi la classe 2024](#4-aggiungi-la-classe-2024)
+- [5. Rimuovi i livelli della classe 2014](#5-rimuovi-i-livelli-della-classe-2014)
+- [6. Aumenta di livello con la classe 2024](#6-aumenta-di-livello-con-la-classe-2024)
+- [7. Gestisci la sottoclasse (es. Scuola di Necromanzia)](#7-gestisci-la-sottoclasse)
+- [8. Aggiorna il background (opzionale)](#8-aggiorna-il-background-opzionale)
+- [9. Aggiorna la specie (opzionale)](#9-aggiorna-la-specie-opzionale)
+- [10. Riseleziona gli incantesimi](#10-riseleziona-gli-incantesimi)
+- [11. Rivedi talenti, equipaggiamento e altri dettagli](#11-rivedi-talenti-equipaggiamento-e-altri-dettagli)
 
 ---
 
 ## Passaggi Dettagliati
 
+<a id="0-sfruttare-la-content-sharing"></a>
 ### 0. Sfruttare la Content Sharing per i Nuovi Personaggi
 
 Quando crei un nuovo personaggio da zero su D&D Beyond, potresti notare che non ha automaticamente accesso ai contenuti condivisi (*content sharing*) della tua campagna, come libri o opzioni acquistate da altri membri. Questo succede se non hai collegato il nuovo personaggio alla campagna prima o durante la creazione. Per risolvere questo problema e assicurarti che il tuo nuovo personaggio 2024 possa beneficiare di tutte le opzioni condivise, segui questi passaggi:
@@ -63,6 +64,7 @@ Quando crei un nuovo personaggio da zero su D&D Beyond, potresti notare che non 
 **Perché è Necessario:**
 Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo account personale e non potrà accedere ai contenuti condivisi dalla campagna, come razze o sottoclassi rare. Importandolo tramite il link di invito, D&D Beyond aggiorna il personaggio, sbloccando tutte le possibilità offerte dalla *content sharing*.
 
+<a id="1-crea-una-copia-di-backup"></a>
 ### 1. Crea una Copia di Backup del Personaggio
 
 **Azioni da Fare (Sito Web):**
@@ -85,6 +87,7 @@ Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo a
 
 ---
 
+<a id="2-annota-i-punti-ferita"></a>
 ### 2. Annota i Punti Ferita (PF)
 
 **Azioni da Fare:**
@@ -96,6 +99,7 @@ Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo a
 
 ---
 
+<a id="3-accedi-al-costruttore-del-personaggio"></a>
 ### 3. Accedi al Costruttore del Personaggio
 
 **Azioni da Fare:**
@@ -106,6 +110,7 @@ Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo a
 
 ---
 
+<a id="4-aggiungi-la-classe-2024"></a>
 ### 4. Aggiungi la Classe 2024
 
 **Azioni da Fare:**
@@ -118,6 +123,7 @@ Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo a
 
 ---
 
+<a id="5-rimuovi-i-livelli-della-classe-2014"></a>
 ### 5. Rimuovi i Livelli della Classe 2014
 
 **Azioni da Fare:**
@@ -129,6 +135,7 @@ Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo a
 
 ---
 
+<a id="6-aumenta-di-livello-con-la-classe-2024"></a>
 ### 6. Aumenta di Livello con la Classe 2024
 
 **Azioni da Fare:**
@@ -144,6 +151,7 @@ Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo a
 
 ---
 
+<a id="7-gestisci-la-sottoclasse"></a>
 ### 7. Gestisci la Sottoclasse (es. Scuola di Necromanzia)
 
 **Azioni da Fare:**
@@ -164,6 +172,7 @@ Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo a
 
 ---
 
+<a id="8-aggiorna-il-background-opzionale"></a>
 ### 8. Aggiorna il Background (Opzionale)
 
 **Azioni da Fare:**
@@ -175,6 +184,7 @@ Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo a
 
 ---
 
+<a id="9-aggiorna-la-specie-opzionale"></a>
 ### 9. Aggiorna la Specie (Opzionale)
 
 **Azioni da Fare:**
@@ -186,6 +196,7 @@ Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo a
 
 ---
 
+<a id="10-riseleziona-gli-incantesimi"></a>
 ### 10. Riseleziona gli Incantesimi
 
 **Azioni da Fare:**
@@ -202,6 +213,7 @@ Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo a
 
 ---
 
+<a id="11-rivedi-talenti-equipaggiamento-e-altri-dettagli"></a>
 ### 11. Rivedi Talenti, Equipaggiamento e Altri Dettagli
 
 **Azioni da Fare:**
@@ -280,6 +292,7 @@ Buon divertimento con i tuoi personaggi aggiornati!
 ---
 
 ## Citazioni Chiave
+- [Manuale del Giocatore 2024](https://www.dndbeyond.com/sources/phb)
 - [All 48 Player’s Handbook 2024 Subclasses](https://www.enworld.org/threads/all-48-player%E2%80%99s-handbook-2024-subclasses.704863/)
 - [Every subclass in D&D’s new 2024 Player’s Handbook](https://www.dexerto.com/gaming/every-subclass-in-dds-new-2024-players-handbook-2784139/)
 - [Dungeons & Dragons Confirms That Old Subclasses Can Be Used With 2024 Class Rules](https://comicbook.com/gaming/news/dungeons-dragons-2014-subclasses-2024-class-rules/)
