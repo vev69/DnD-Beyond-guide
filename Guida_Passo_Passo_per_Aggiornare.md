@@ -59,7 +59,7 @@ Quando crei un nuovo personaggio da zero su D&D Beyond, potresti notare che non 
 
 **Nota Importante:**
 - Assicurati di selezionare il personaggio corretto dall'elenco, soprattutto se hai più versioni o copie (es. backup) o altri personaggi non assegnati ad una campagna.
-- Se avevi gia un personaggio 2014 nella Campagna utilizzi i passaggi successivi, puoi saltare questo passaggio: la guida ti conduce passo passo a modificare il tuo personaggio 2014 e trasformarlo in uno 2024.
+- Se avevi gia un personaggio 2014 nella Campagna e utilizzi i passaggi successivi, puoi saltare questo passaggio: la guida ti conduce passo passo a modificare il tuo personaggio 2014 e trasformarlo in uno 2024.
 
 **Perché è Necessario:**
 Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo account personale e non potrà accedere ai contenuti condivisi dalla campagna, come razze o sottoclassi rare. Importandolo tramite il link di invito, D&D Beyond aggiorna il personaggio, sbloccando tutte le possibilità offerte dalla *content sharing*.
