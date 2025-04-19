@@ -35,7 +35,7 @@ Ecco una panoramica dei passaggi per aggiornare qualsiasi personaggio, seguita d
 
 ### 0. Sfruttare la Content Sharing per i Nuovi Personaggi
 
-Quando crei un nuovo personaggio da zero su D&D Beyond, potresti notare che non ha automaticamente accesso ai contenuti condivisi (*content sharing*) della tua campagna, come libri o opzioni acquistate da altri membri. Questo succede se non hai collegato il personaggio alla campagna prima o durante la creazione. Per risolvere questo problema e assicurarti che il tuo nuovo personaggio 2024 possa beneficiare di tutte le opzioni condivise, segui questi passaggi:
+Quando crei un nuovo personaggio da zero su D&D Beyond, potresti notare che non ha automaticamente accesso ai contenuti condivisi (*content sharing*) della tua campagna, come libri o opzioni acquistate da altri membri. Questo succede se non hai collegato il nuovo personaggio alla campagna prima o durante la creazione. Per risolvere questo problema e assicurarti che il tuo nuovo personaggio 2024 possa beneficiare di tutte le opzioni condivise, segui questi passaggi:
 
 **Passaggi per Attivare la Content Sharing:**
 
@@ -57,8 +57,8 @@ Quando crei un nuovo personaggio da zero su D&D Beyond, potresti notare che non 
    - Conferma la selezione cliccando su "Save" o "Confirm". A questo punto, il personaggio sarà importato nella campagna e avrà accesso a tutti i contenuti condivisi (libri, classi, razze, incantesimi, ecc.).
 
 **Nota Importante:**
-- Se hai creato il personaggio prima di seguire questi passaggi, non preoccuparti: il metodo funziona anche per personaggi già esistenti. Basta importarlo come descritto sopra.
-- Assicurati di selezionare il personaggio corretto dall'elenco, soprattutto se hai più versioni o copie (es. backup).
+- Assicurati di selezionare il personaggio corretto dall'elenco, soprattutto se hai più versioni o copie (es. backup) o altri personaggi non assegnati ad una campagna.
+- Se avevi gia un personaggio 2014 nella Campagna utilizzi i passaggi successivi, puoi saltare questo passaggio: la guida ti conduce passo passo a modificare il tuo personaggio 2014 e trasformarlo in uno 2024.
 
 **Perché è Necessario:**
 Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo account personale e non potrà accedere ai contenuti condivisi dalla campagna, come razze o sottoclassi rare. Importandolo tramite il link di invito, D&D Beyond aggiorna il personaggio, sbloccando tutte le possibilità offerte dalla *content sharing*.
