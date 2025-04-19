@@ -16,6 +16,7 @@ Questa guida dettagliata ti accompagnerà nella transizione dei tuoi personaggi 
 
 Ecco una panoramica dei passaggi per aggiornare qualsiasi personaggio, seguita da una spiegazione dettagliata per ogni step, con esempi specifici per un Mago Necromancer.
 
+0. **Sfruttare la Content Sharing per i Nuovi Personaggi**
 1. **Crea una copia di backup del personaggio**
 2. **Annota i Punti Ferita (PF)**
 3. **Accedi al Costruttore del Personaggio**
@@ -31,6 +32,36 @@ Ecco una panoramica dei passaggi per aggiornare qualsiasi personaggio, seguita d
 ---
 
 ## Passaggi Dettagliati
+
+### 0. Sfruttare la Content Sharing per i Nuovi Personaggi
+
+Quando crei un nuovo personaggio da zero su D&D Beyond, potresti notare che non ha automaticamente accesso ai contenuti condivisi (*content sharing*) della tua campagna, come libri o opzioni acquistate da altri membri. Questo succede se non hai collegato il personaggio alla campagna prima o durante la creazione. Per risolvere questo problema e assicurarti che il tuo nuovo personaggio 2024 possa beneficiare di tutte le opzioni condivise, segui questi passaggi:
+
+**Passaggi per Attivare la Content Sharing:**
+
+1. **Trova il Link di Invito:**
+   - Accedi a D&D Beyond con il tuo account.
+   - Vai alla sezione **"My Campaigns"** (Le Mie Campagne) nel menu in alto.
+   - Seleziona la campagna a cui vuoi associare il personaggio.
+   - Cerca il **link di invito**, solitamente indicato come "Invite Players" (Invita Giocatori) o simile. Copia questo link o tienilo a portata di mano.
+
+2. **Usa il Link di Invito:**
+   - Clicca sul link di invito che hai trovato (puoi aprirlo in una nuova scheda del browser).
+   - Se non sei già loggato, D&D Beyond ti chiederà di effettuare il login con il tuo account.
+   - Una volta cliccato, verrai reindirizzato a una pagina dove puoi accettare l'invito alla campagna. Conferma l'accettazione.
+
+3. **Importa il Personaggio:**
+   - Dopo aver accettato l'invito, sarai nella schermata della campagna.
+   - Cerca l'opzione per collegare o importare un personaggio alla campagna (di solito appare come "Add Character" o "Link Character").
+   - Ti verrà mostrato un elenco dei tuoi personaggi esistenti. Seleziona il **nuovo personaggio 2024** che hai creato da zero.
+   - Conferma la selezione cliccando su "Save" o "Confirm". A questo punto, il personaggio sarà importato nella campagna e avrà accesso a tutti i contenuti condivisi (libri, classi, razze, incantesimi, ecc.).
+
+**Nota Importante:**
+- Se hai creato il personaggio prima di seguire questi passaggi, non preoccuparti: il metodo funziona anche per personaggi già esistenti. Basta importarlo come descritto sopra.
+- Assicurati di selezionare il personaggio corretto dall'elenco, soprattutto se hai più versioni o copie (es. backup).
+
+**Perché è Necessario:**
+Senza questa procedura, il tuo personaggio sarà limitato alle opzioni del tuo account personale e non potrà accedere ai contenuti condivisi dalla campagna, come razze o sottoclassi rare. Importandolo tramite il link di invito, D&D Beyond aggiorna il personaggio, sbloccando tutte le possibilità offerte dalla *content sharing*.
 
 ### 1. Crea una Copia di Backup del Personaggio
 
