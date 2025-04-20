@@ -289,7 +289,7 @@ Nel 2014, potevi lanciare un incantesimo con slot come azione e un cantrip come 
 
 Per evitare errori e adattarti al 2024:
 
-- **Rileggi le Regole Base**: Dedica tempo a rivedere le sezioni su combattimento, riposi e azioni nel *Manuale del Giocatore 2024*, consultando [Regole Base Gratuite 2024](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)). Anche se pensi di sapere tutto, i dettagli sono cambiati rispetto al 2014, come nelle [Regole Base 2014](https://roll20.net/compendium/dnd5e/Free%20Basic%20Rules%20(2014)#content).
+- **Rileggi le Regole Base**: Dedica tempo a rivedere le sezioni su combattimento, riposi e azioni nel *Manuale del Giocatore 2024*, consultando [Regole Base Gratuite 2024](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)). Anche se pensi di sapere tutto, i dettagli sono cambiati rispetto al 2014.
 - **Collabora con il DM**: Discuti come gestire conflitti tra vecchie e nuove regole, soprattutto per azioni come *Influenzare* o condizioni come *Esaurimento*.
 - **Prova le Nuove Azioni**: Usa *Studiare* e *Influenzare* per sfruttare le nuove strutture, anche se sei abituato a gestire queste situazioni narrativamente.
 - **Aggiorna le Tattiche**: Riconsidera le tue strategie in combattimento, includendo *Maestria delle Armi* e le nuove opzioni per colpi senz’arma o pozioni.
