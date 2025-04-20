@@ -106,23 +106,24 @@ Il movimento è stato reso più fluido nel 2024, influenzando il posizionamento 
 
 <a id="1-9-maestria-delle-armi"></a>
 #### 1.9 Maestria delle Armi (*Weapon Mastery*)
-Introdotta nel 2024, la Maestria delle Armi permette a classi marziali (Barbari, Guerrieri, Paladini, Ranger, Ladri) di specializzarsi in determinati tipi di armi, sbloccando proprietà uniche chiamate "mastery properties". Ogni arma ha una proprietà di mastery che offre effetti speciali in combattimento, come spingere i nemici, attaccare multiple creature, o ottenere vantaggio su attacchi futuri. I Guerrieri possono masterizzare tre armi, mentre le altre classi due. È possibile cambiare le armi masterizzate dopo un riposo lungo. Per usare la proprietà di mastery di un’arma, devi essere competente con essa e averla masterizzata. Le classi non marziali possono accedere a Weapon Mastery tramite il talento *Weapon Master*, che permette di masterizzare un certo numero di armi. **Chi Può Accedere**:
-- **Classi Marziali**: Barbari, Guerrieri, Paladini, Ranger, Ladri ottengono Weapon Mastery come caratteristica di classe, come descritto nelle [Regole Base Gratuite 2024 - Classi](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)).
-- **Talento Weapon Master**: Qualsiasi classe può prenderlo per accedere a Weapon Mastery, come nelle [Regole Base Gratuite 2024 - Talenti](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)).
+Introdotta nel 2024, la Maestria delle Armi permette a classi marziali (Barbari, Guerrieri, Paladini, Ranger, Ladri) di specializzarsi in determinati tipi di armi, sbloccando proprietà uniche chiamate "mastery properties". Ogni arma ha una proprietà di mastery che offre effetti speciali in combattimento, come spingere i nemici, attaccare multiple creature, o ottenere vantaggio su attacchi futuri. I Guerrieri possono masterizzare tre armi, mentre le altre classi due. È possibile cambiare le armi masterizzate dopo un riposo lungo. Per usare la proprietà di mastery di un’arma, devi essere competente con essa e averla masterizzata. Le classi non marziali possono accedere a Weapon Mastery tramite il talento *Weapon Master*, che permette di masterizzare un certo numero di armi. 
+**Chi Può Accedere**:
+- **Classi Marziali**: Barbari, Guerrieri, Paladini, Ranger, Ladri ottengono Weapon Mastery come caratteristica di classe, come descritto nelle [Regole Base Gratuite 2024 1. Classi](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)).
+2. **Talento Weapon Master**: Qualsiasi classe può prenderlo per accedere a Weapon Mastery, come nelle [Regole Base Gratuite 2024 - Talenti](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)).
 **Proprietà di Mastery** (esempi):
-- *Cleave (Fendere)*: Dopo aver colpito una creatura con un attacco in mischia, puoi fare un attacco in mischia con l’arma contro una seconda creatura entro 5 piedi dalla prima e entro la tua portata.
-- *Push (Spingere)*: Quando colpisci una creatura con un attacco, puoi spingerla fino a 10 piedi lontano da te.
-- *Slow (Rallentare)*: Quando colpisci una creatura con un attacco, la sua velocità è ridotta di 10 piedi fino all’inizio del tuo prossimo turno.
-- *Topple (Abbattere)*: Quando colpisci una creatura con un attacco, deve fare un tiro salvezza di Destrezza o essere knocked prone.
-- *Vex (Infastidire)*: Se colpisci una creatura con un attacco, hai vantaggio sul tuo prossimo tiro per colpire contro di essa prima della fine del tuo prossimo turno.
-- *Graze (Graffio)*: Se manchi un attacco, infliggi danni uguali al tuo modificatore di abilità.
-- *Nick (Colpo Rapido)*: Per armi leggere, puoi fare un attacco aggiuntivo come parte della stessa azione.
-- *Sap (Stordire)*: Quando colpisci una creatura, ha svantaggio sul suo prossimo tiro per colpire prima della fine del suo prossimo turno.
+ - *Cleave (Fendere)*: Dopo aver colpito una creatura con un attacco in mischia, puoi fare un attacco in mischia con l’arma contro una seconda creatura entro 5 piedi dalla prima e entro la tua portata.
+ - *Push (Spingere)*: Quando colpisci una creatura con un attacco, puoi spingerla fino a 10 piedi lontano da te.
+ - *Slow (Rallentare)*: Quando colpisci una creatura con un attacco, la sua velocità è ridotta di 10 piedi fino all’inizio del tuo prossimo turno.
+ - *Topple (Abbattere)*: Quando colpisci una creatura con un attacco, deve fare un tiro salvezza di Destrezza o essere knocked prone.
+ - *Vex (Infastidire)*: Se colpisci una creatura con un attacco, hai vantaggio sul tuo prossimo tiro per colpire contro di essa prima della fine del tuo prossimo turno.
+ - *Graze (Graffio)*: Se manchi un attacco, infliggi danni uguali al tuo modificatore di abilità.
+ - *Nick (Colpo Rapido)*: Per armi leggere, puoi fare un attacco aggiuntivo come parte della stessa azione.
+ - *Sap (Stordire)*: Quando colpisci una creatura, ha svantaggio sul suo prossimo tiro per colpire prima della fine del suo prossimo turno.
 **Vantaggi**:
-- **Controllo del Campo**: Proprietà come *Push* e *Topple* permettono di repositionare o immobilizzare i nemici, simile a capacità da caster.
-- **Danno Aggiuntivo**: *Cleave* e *Nick* aumentano il potenziale di danno contro più bersagli o con attacchi rapidi.
-- **Vantaggi Tattici**: *Vex* e *Sap* migliorano la precisione o penalizzano i nemici, offrendo superiorità tattica.
-- **Flessibilità**: Cambiare armi masterizzate dopo un riposo lungo permette di adattarsi a situazioni diverse.
+ - **Controllo del Campo**: Proprietà come *Push* e *Topple* permettono di repositionare o immobilizzare i nemici, simile a capacità da caster.
+ - **Danno Aggiuntivo**: *Cleave* e *Nick* aumentano il potenziale di danno contro più bersagli o con attacchi rapidi.
+ - **Vantaggi Tattici**: *Vex* e *Sap* migliorano la precisione o penalizzano i nemici, offrendo superiorità tattica.
+ - **Flessibilità**: Cambiare armi masterizzate dopo un riposo lungo permette di adattarsi a situazioni diverse.
 **Confronto con 2014**: Nel 2014, le armi avevano proprietà come Leggera o Versatile, ma nessuna mastery property, rendendo la scelta meno strategica, come nelle [Regole Base 2014 - Armi](https://roll20.net/compendium/dnd5e/Free%20Basic%20Rules%20(2014)#content). **Esempio Comparativo**: Un guerriero con una battaglia ascia nel 2014 sceglieva per danno e portata; nel 2024, con *Cleave*, può attaccare un secondo nemico vicino, cambiando la dinamica di gruppo. **Esempio Pratico**: Un ranger con un arco lungo masterizzato (*Vex*) colpisce un nemico, ottenendo vantaggio sul prossimo attacco, migliorando la probabilità di colpire di nuovo. **Attenzione**: Potresti ignorare queste opzioni, scegliendo armi per abitudine senza considerare gli effetti di mastery. **Perché è Importante**: Weapon Mastery aggiunge profondità tattica, permettendo ai personaggi marziali di influenzare il campo di battaglia in modi prima riservati ai caster. Per dettagli, consulta [Regole Base Gratuite 2024 - Armi](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)).
 
 [Torna al Sommario](#sommario)
