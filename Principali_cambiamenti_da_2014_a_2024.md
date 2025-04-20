@@ -106,10 +106,12 @@ Il movimento è stato reso più fluido nel 2024, influenzando il posizionamento 
 
 <a id="1-9-maestria-delle-armi"></a>
 #### 1.9 Maestria delle Armi (*Weapon Mastery*)
-Introdotta nel 2024, la Maestria delle Armi permette a classi marziali (Barbari, Guerrieri, Paladini, Ranger, Ladri) di specializzarsi in determinati tipi di armi, sbloccando proprietà uniche chiamate "mastery properties". Ogni arma ha una proprietà di mastery che offre effetti speciali in combattimento, come spingere i nemici, attaccare multiple creature, o ottenere vantaggio su attacchi futuri. I Guerrieri possono masterizzare tre armi, mentre le altre classi due. È possibile cambiare le armi masterizzate dopo un riposo lungo. Per usare la proprietà di mastery di un’arma, devi essere competente con essa e averla masterizzata. Le classi non marziali possono accedere a Weapon Mastery tramite il talento *Weapon Master*, che permette di masterizzare un certo numero di armi. 
+Introdotta nel 2024, la Maestria delle Armi permette a classi marziali (Barbari, Guerrieri, Paladini, Ranger, Ladri) di specializzarsi in determinati tipi di armi, sbloccando proprietà uniche chiamate "mastery properties". Ogni arma ha una proprietà di mastery che offre effetti speciali in combattimento, come spingere i nemici, attaccare multiple creature, o ottenere vantaggio su attacchi futuri. I Guerrieri possono masterizzare tre armi, mentre le altre classi due. È possibile cambiare le armi masterizzate dopo un riposo lungo. Per usare la proprietà di mastery di un’arma, devi essere competente con essa e averla masterizzata. Le classi non marziali possono accedere a Weapon Mastery tramite il talento *Weapon Master*, che permette di masterizzare un certo numero di armi.
+
 **Chi Può Accedere**:
 1. **Classi Marziali**: Barbari, Guerrieri, Paladini, Ranger, Ladri ottengono Weapon Mastery come caratteristica di classe, come descritto nelle [Regole Base Gratuite 2024 Classi](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)).
 2. **Talento Weapon Master**: Qualsiasi classe può prenderlo per accedere a Weapon Mastery, come nelle [Regole Base Gratuite 2024 - Talenti](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)).
+
 **Proprietà di Mastery** (esempi):
  - *Cleave (Fendere)*: Dopo aver colpito una creatura con un attacco in mischia, puoi fare un attacco in mischia con l’arma contro una seconda creatura entro 5 piedi dalla prima e entro la tua portata.
  - *Push (Spingere)*: Quando colpisci una creatura con un attacco, puoi spingerla fino a 10 piedi lontano da te.
@@ -119,6 +121,7 @@ Introdotta nel 2024, la Maestria delle Armi permette a classi marziali (Barbari,
  - *Graze (Graffio)*: Se manchi un attacco, infliggi danni uguali al tuo modificatore di abilità.
  - *Nick (Colpo Rapido)*: Per armi leggere, puoi fare un attacco aggiuntivo come parte della stessa azione.
  - *Sap (Stordire)*: Quando colpisci una creatura, ha svantaggio sul suo prossimo tiro per colpire prima della fine del suo prossimo turno.
+
 **Vantaggi**:
  - **Controllo del Campo**: Proprietà come *Push* e *Topple* permettono di repositionare o immobilizzare i nemici, simile a capacità da caster.
  - **Danno Aggiuntivo**: *Cleave* e *Nick* aumentano il potenziale di danno contro più bersagli o con attacchi rapidi.
