@@ -103,7 +103,7 @@ Introdotta nel 2024, la Maestria delle Armi permette a classi marziali (Barbari,
  - *Sap (Stordire)*: Quando colpisci una creatura, ha svantaggio sul suo prossimo tiro per colpire prima della fine del suo prossimo turno.
 
 **Vantaggi**:
- - **Controllo del Campo**: Proprietà come *Push* e *Topple* permettono di repositionare o immobilizzare i nemici, simile a capacità da caster.
+ - **Controllo del Campo**: Proprietà come *Push* e *Topple* permettono di riposizionare o immobilizzare i nemici, simile a capacità da caster.
  - **Danno Aggiuntivo**: *Cleave* e *Nick* aumentano il potenziale di danno contro più bersagli o con attacchi rapidi.
  - **Vantaggi Tattici**: *Vex* e *Sap* migliorano la precisione o penalizzano i nemici, offrendo superiorità tattica.
  - **Flessibilità**: Cambiare armi masterizzate dopo un riposo lungo permette di adattarsi a situazioni diverse.
