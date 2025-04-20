@@ -62,7 +62,7 @@ Nel 2014, se una creatura era sorpresa, non poteva muoversi o agire nel primo ro
 
 <a id="1-2-attacchi-di-opportunita"></a>
 #### 1.2 Attacchi di Opportunità (*Opportunity Attacks*)
-Nel 2014, si attivavano solo quando una creatura ostile visibile si muoveva fuori dalla tua portata, come nelle [Regole Base 2014 - Combattimento](https://roll20.net/compendium/dnd5e/Free%20Basic%20Rules%20(2014)#content). Nel 2024, si attivano quando una creatura visibile si muove fuori dalla tua portata, inclusi alleati, come nelle [Regole Base Gratuite 2024 - Combattimento](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)). 
+Nel 2014, si attivavano solo quando una creatura ostile visibile si muoveva fuori dalla tua portata. Nel 2024, si attivano quando una creatura visibile si muove fuori dalla tua portata, inclusi alleati. 
 
  **Attenzione**: Potresti non sfruttare questa flessibilità, limitandoti alle vecchie abitudini. 
 
@@ -74,7 +74,7 @@ Nel 2014, si attivavano solo quando una creatura ostile visibile si muoveva fuor
 
 <a id="1-3-lottare-e-spingere"></a>
 #### 1.3 Lottare (*Grapple*) e Spingere (*Shove*)
-Nel 2014, usavi tiri contrapposti di Atletica/Acrobazia, come nelle [Regole Base 2014 - Combattimento](https://roll20.net/compendium/dnd5e/Free%20Basic%20Rules%20(2014)#content). Nel 2024, il bersaglio tira un tiro salvezza (Forza o Destrezza a scelta) contro una CD basata sulla tua Forza, come nelle [Regole Base Gratuite 2024 - Combattimento](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)). 
+Nel 2014, usavi tiri contrapposti di Atletica/Acrobazia. Nel 2024, il bersaglio tira un tiro salvezza (Forza o Destrezza a scelta) contro una CD basata sulla tua Forza. 
 
  **Attenzione**: Questo rende l’esito più prevedibile, ma considera i modificatori di salvezza del nemico.
 
@@ -86,7 +86,7 @@ Nel 2014, usavi tiri contrapposti di Atletica/Acrobazia, come nelle [Regole Base
 
 <a id="1-4-combattimento-a-due-armi"></a>
 #### 1.4 Combattimento a Due Armi (*Two-Weapon Fighting*)
-Nel 2014, era limitato alle armi da mischia leggere, come nelle [Regole Base 2014 - Combattimento](https://roll20.net/compendium/dnd5e/Free%20Basic%20Rules%20(2014)#content). Nel 2024, include qualsiasi arma con la proprietà Leggera, come nelle [Regole Base Gratuite 2024 - Combattimento](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)). 
+Nel 2014, era limitato alle armi da mischia leggere. Nel 2024, include qualsiasi arma con la proprietà Leggera. 
 
 **Attenzione**: Potresti non esplorare nuove combinazioni, come armi a distanza leggere. 
 
@@ -98,7 +98,7 @@ Nel 2014, era limitato alle armi da mischia leggere, come nelle [Regole Base 201
 
 <a id="1-5-colpi-senz-arma"></a>
 #### 1.5 Colpi Senz’Arma (*Unarmed Strikes*)
-Nel 2014, i colpi senz’arma erano limitati a danni minimi, come nelle [Regole Base 2014 - Combattimento](https://roll20.net/compendium/dnd5e/Free%20Basic%20Rules%20(2014)#content). Nel 2024, offrono opzioni per infliggere danni, lottare o spingere, usando tiri salvezza, come nelle [Regole Base Gratuite 2024 - Combattimento](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)). 
+Nel 2014, i colpi senz’arma erano limitati a danni minimi. Nel 2024, offrono opzioni per infliggere danni, lottare o spingere, usando tiri salvezza. 
 
  **Attenzione**: Potresti ignorare le nuove opzioni, assumendo le vecchie regole. 
 
@@ -110,7 +110,7 @@ Nel 2014, i colpi senz’arma erano limitati a danni minimi, come nelle [Regole 
 
 <a id="1-6-invisibilita"></a>
 #### 1.6 Invisibilità (*Invisible*)
-Nel 2014, l’invisibilità non influenzava l’iniziativa, come nelle [Regole Base 2014 - Condizioni](https://roll20.net/compendium/dnd5e/Free%20Basic%20Rules%20(2014)#content). Nel 2024, concede Vantaggio all’iniziativa, come nelle [Regole Base Gratuite 2024 - Condizioni](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)). 
+Nel 2014, l’invisibilità non influenzava l’iniziativa. Nel 2024, concede Vantaggio all’iniziativa. 
 
  **Attenzione**: Non sfruttare questo bonus potrebbe indebolire personaggi furtivi. 
 
@@ -122,7 +122,7 @@ Nel 2014, l’invisibilità non influenzava l’iniziativa, come nelle [Regole B
 
 <a id="1-7-pozioni"></a>
 #### 1.7 Pozioni (*Potions*)
-Nel 2014, bere o somministrare una pozione era un’azione, come nelle [Regole Base 2014 - Equipaggiamento](https://roll20.net/compendium/dnd5e/Free%20Basic%20Rules%20(2014)#content). Nel 2024, è un’azione bonus, come nelle [Regole Base Gratuite 2024 - Equipaggiamento](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)). 
+Nel 2014, bere o somministrare una pozione era un’azione. Nel 2024, è un’azione bonus. 
 
  **Attenzione**: Potresti sottovalutare la loro utilità in combattimento. 
 
@@ -136,7 +136,7 @@ Nel 2014, bere o somministrare una pozione era un’azione, come nelle [Regole B
 #### 1.8 Movimento in Combattimento
 Il movimento è stato reso più fluido nel 2024, influenzando il posizionamento tattico. Ecco i dettagli:
 
-- **Muoversi Attraverso Spazi di Alleati**: Nel 2014, muoversi attraverso lo spazio di qualsiasi creatura, inclusi alleati, era considerato terreno difficile, costando movimento extra, come nelle [Regole Base 2014 - Combattimento](https://roll20.net/compendium/dnd5e/Free%20Basic%20Rules%20(2014)#content). Nel 2024, puoi muoverti liberamente attraverso lo spazio di un alleato senza che sia terreno difficile, come nelle [Regole Base Gratuite 2024 - Combattimento](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)). 
+- **Muoversi Attraverso Spazi di Alleati**: Nel 2014, muoversi attraverso lo spazio di qualsiasi creatura, inclusi alleati, era considerato terreno difficile, costando movimento extra. Nel 2024, puoi muoverti liberamente attraverso lo spazio di un alleato senza che sia terreno difficile. 
 
   **Impatto**: Facilita il posizionamento, permettendo di raggiungere nemici o posizioni ottimali più facilmente. 
 
@@ -144,13 +144,13 @@ Il movimento è stato reso più fluido nel 2024, influenzando il posizionamento 
 
   **Confronto**: Nel 2014, un guerriero con 30 piedi di velocità, passando accanto a un alleato, avrebbe 15 piedi di movimento rimanente se lo spazio era difficile, mentre nel 2024 mantiene i 30 piedi, permettendo più opzioni tattiche.
 
-- **Muoversi Tra Attacchi**: Nel 2014, era possibile muovere tra attacchi con Extra Attack, ma non sempre esplicitamente chiarito, come nelle [Regole Base 2014 - Combattimento](https://roll20.net/compendium/dnd5e/Free%20Basic%20Rules%20(2014)#content). Nel 2024, è esplicitamente dichiarato che puoi muoverti tra attacchi fatti con la stessa azione, come nelle [Regole Base Gratuite 2024 - Combattimento](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)). 
+- **Muoversi Tra Attacchi**: Nel 2014, era possibile muovere tra attacchi con Extra Attack, ma non sempre esplicitamente chiarito. Nel 2024, è esplicitamente dichiarato che puoi muoverti tra attacchi fatti con la stessa azione. 
 
- **Impatto**: Chiarisce che puoi dividere il movimento, evitando confusione. 
+  **Impatto**: Chiarisce che puoi dividere il movimento, evitando confusione. 
  
- **Esempio**: Un guerriero con Extra Attack può muoversi 10 piedi, attaccare, muoversi altri 10 piedi e attaccare di nuovo, purché abbia movimento sufficiente, una tattica più chiara nel 2024.
+  **Esempio**: Un guerriero con Extra Attack può muoversi 10 piedi, attaccare, muoversi altri 10 piedi e attaccare di nuovo, purché abbia movimento sufficiente, una tattica più chiara nel 2024.
 
-- **Esaurimento e Velocità**: Nel 2014, la velocità era dimezzata al secondo livello di esaurimento e ridotta a 0 al quinto, come nelle [Regole Base 2014 - Condizioni](https://roll20.net/compendium/dnd5e/Free%20Basic%20Rules%20(2014)#content). Nel 2024, ogni livello di esaurimento riduce la velocità di 5 piedi, a partire dal primo, come nelle [Regole Base Gratuite 2024 - Condizioni](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)). 
+- **Esaurimento e Velocità**: Nel 2014, la velocità era dimezzata al secondo livello di esaurimento e ridotta a 0 al quinto. Nel 2024, ogni livello di esaurimento riduce la velocità di 5 piedi, a partire dal primo. 
  **Impatto**: Anche un solo livello di esaurimento influisce sulla mobilità, rendendo l’esaurimento più impattante fin dall’inizio. 
  
  **Esempio Comparativo**: Un personaggio con 30 piedi di velocità e 1 livello di esaurimento nel 2024 ha 25 piedi di velocità, mentre nel 2014 avrebbe mantenuto 30 piedi fino al secondo livello, dove scende a 15 piedi. Con 2 livelli, nel 2024 ha 20 piedi, più graduale ma penalizzante prima.
@@ -203,7 +203,7 @@ Le regole per le risorse, come i riposi e l’esaurimento, sono state aggiornate
 
 <a id="2-1-riposi-lunghi"></a>
 #### 2.1 Riposi Lunghi (*Long Rest*)
-Nel 2014, non c’era un intervallo minimo tra riposi lunghi, come nelle [Regole Base 2014 - Riposi](https://roll20.net/compendium/dnd5e/Free%20Basic%20Rules%20(2014)#content). Nel 2024, devono passare almeno 16 ore tra un riposo lungo e l’altro, con interruzioni di più di 1 ora che invalidano il riposo, come nelle [Regole Base Gratuite 2024 - Riposi](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)). 
+Nel 2014, non c’era un intervallo minimo tra riposi lunghi. Nel 2024, devono passare almeno 16 ore tra un riposo lungo e l’altro, con interruzioni di più di 1 ora che invalidano il riposo. 
  
  **Attenzione**: Potresti pianificare riposi multipli ravvicinati, rischiando di rimanere senza risorse. 
 
@@ -215,7 +215,7 @@ Nel 2014, non c’era un intervallo minimo tra riposi lunghi, come nelle [Regole
 
 <a id="2-2-esaurimento"></a>
 #### 2.2 Esaurimento (*Exhaustion*)
-Nel 2014, ogni livello di esaurimento aveva effetti graduali (es. svantaggio a tiri di abilità al livello 1, velocità dimezzata al livello 2), come nelle [Regole Base 2014 - Condizioni](https://roll20.net/compendium/dnd5e/Free%20Basic%20Rules%20(2014)#content). Nel 2024, ogni livello impone un malus di -2 a tiri di abilità, tiri per colpire, tiri salvezza e CD degli incantesimi, e riduce la velocità di 5 piedi, con morte al sesto livello, come nelle [Regole Base Gratuite 2024 - Condizioni](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)). 
+Nel 2014, ogni livello di esaurimento aveva effetti graduali (es. svantaggio a tiri di abilità al livello 1, velocità dimezzata al livello 2). Nel 2024, ogni livello impone un malus di -2 a tiri di abilità, tiri per colpire, tiri salvezza e CD degli incantesimi, e riduce la velocità di 5 piedi, con morte al sesto livello. 
 
  **Attenzione**: L’esaurimento è più pericoloso; evita situazioni che lo causano senza valutare il costo. 
 
@@ -232,7 +232,7 @@ Il 2024 introduce nuove azioni che formalizzano interazioni precedentemente gest
 
 <a id="3-1-studiare"></a>
 #### 3.1 Studiare (*Study*)
-Un’azione che usa un tiro di Intelligenza (Arcana, Storia, Religione, Natura) per ottenere informazioni, come nelle [Regole Base Gratuite 2024 - Azioni](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)). Nel 2014, queste informazioni erano gestite narrativamente, come nelle [Regole Base 2014 - Interazioni](https://roll20.net/compendium/dnd5e/Free%20Basic%20Rules%20(2014)#content). 
+Un’azione che usa un tiro di Intelligenza (Arcana, Storia, Religione, Natura) per ottenere informazioni. Nel 2014, queste informazioni erano gestite narrativamente. 
 
  **Attenzione**: Potresti continuare a chiedere al DM senza usare questa azione, perdendo opportunità strutturate. 
  
@@ -244,7 +244,7 @@ Un’azione che usa un tiro di Intelligenza (Arcana, Storia, Religione, Natura) 
 
 <a id="3-2-influenzare"></a>
 #### 3.2 Influenzare (*Influence*)
-Formalizza le interazioni sociali con tiri di Carisma (Persuasione, Inganno, Intimidazione) contro una DC basata sull’Intelligenza del bersaglio o una DC fissa (es. 15), come nelle [Regole Base Gratuite 2024 - Interazioni Sociali](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)). Nel 2014, il DM decideva ad hoc, come nelle [Regole Base 2014 - Interazioni](https://roll20.net/compendium/dnd5e/Free%20Basic%20Rules%20(2014)#content). 
+Formalizza le interazioni sociali con tiri di Carisma (Persuasione, Inganno, Intimidazione) contro una DC basata sull’Intelligenza del bersaglio o una DC fissa (es. 15). Nel 2014, il DM decideva ad hoc. 
 
  **Attenzione**: Non usare questa azione potrebbe limitare il tuo impatto sugli NPC. 
  
@@ -261,7 +261,7 @@ Alcune modifiche meno evidenti possono influire sul flusso di gioco.
 
 <a id="4-1-tiri-di-danno-per-incantesimi-multi-bersaglio"></a>
 #### 4.1 Tiri di Danno per Incantesimi Multi-Bersaglio
-Nel 2014, potevi tirare i danni separatamente per ogni bersaglio, come nelle [Regole Base 2014 - Lancio di Incantesimi](https://roll20.net/compendium/dnd5e/Free%20Basic%20Rules%20(2014)#content). Nel 2024, tiri una volta e applichi lo stesso danno a tutti i bersagli, come nelle [Regole Base Gratuite 2024 - Lancio di Incantesimi](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)). 
+Nel 2014, potevi tirare i danni separatamente per ogni bersaglio. Nel 2024, tiri una volta e applichi lo stesso danno a tutti i bersagli. 
 
  **Attenzione**: Potresti calcolare danni separati, rallentando il gioco. 
  
@@ -273,7 +273,7 @@ Nel 2014, potevi tirare i danni separatamente per ogni bersaglio, come nelle [Re
 
 <a id="4-2-lanciare-incantesimi"></a>
 #### 4.2 Lanciare Incantesimi (*Spellcasting*)
-Nel 2014, potevi lanciare un incantesimo con slot come azione e un cantrip come azione bonus, come nelle [Regole Base 2014 - Lancio di Incantesimi](https://roll20.net/compendium/dnd5e/Free%20Basic%20Rules%20(2014)#content). Nel 2024, puoi usare solo uno slot incantesimo per turno, anche con capacità come *Action Surge*, come nelle [Regole Base Gratuite 2024 - Lancio di Incantesimi](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)). 
+Nel 2014, potevi lanciare un incantesimo con slot come azione e un cantrip come azione bonus. Nel 2024, puoi usare solo uno slot incantesimo per turno, anche con capacità come *Action Surge*. 
 
  **Attenzione**: Pianificare combo multiple di incantesimi è un errore comune. 
  
@@ -291,7 +291,7 @@ Per evitare errori e adattarti al 2024:
 - **Rileggi le Regole Base**: Dedica tempo a rivedere le sezioni su combattimento, riposi e azioni nel *Manuale del Giocatore 2024*, consultando [Regole Base Gratuite 2024](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)). Anche se pensi di sapere tutto, i dettagli sono cambiati rispetto al 2014, come nelle [Regole Base 2014](https://roll20.net/compendium/dnd5e/Free%20Basic%20Rules%20(2014)#content).
 - **Collabora con il DM**: Discuti come gestire conflitti tra vecchie e nuove regole, soprattutto per azioni come *Influenzare* o condizioni come *Esaurimento*.
 - **Prova le Nuove Azioni**: Usa *Studiare* e *Influenzare* per sfruttare le nuove strutture, anche se sei abituato a gestire queste situazioni narrativamente.
-- **Aggiorna le Tattiche**: Riconsidera le tue strategie in combattimento, includendo *Maestria delle Armi* e le nuove opzioni per colpi senz’arma o pozioni, come nelle [Regole Base Gratuite 2024 - Combattimento](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)).
+- **Aggiorna le Tattiche**: Riconsidera le tue strategie in combattimento, includendo *Maestria delle Armi* e le nuove opzioni per colpi senz’arma o pozioni.
 - **Annota le Differenze**: Tieni una lista delle modifiche principali (es. sorpresa, riposi, movimento) per consultarla durante le sessioni, confrontando con [Regole Base 2014](https://roll20.net/compendium/dnd5e/Free%20Basic%20Rules%20(2014)#content).
 
 **Perché è Importante**: Questi consigli ti aiutano a passare da un approccio basato sul 2014 a uno ottimizzato per il 2024, mantenendo il tuo vantaggio come giocatore esperto.
