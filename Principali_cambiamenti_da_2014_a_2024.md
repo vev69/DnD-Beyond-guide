@@ -1,6 +1,6 @@
 # Guida per Giocatori Esperti: Modifiche al Flusso di Gioco da D&D 5e 2014 a 2024
 
-Per istruzioni su come aggiornare i personaggi da D&D 5e 2014 a 2024 su D&D Beyond, consulta la nostra guida complementare: [Aggiornamento Personaggi da 2014 a 2024](./Aggiornamento_personaggi_da_2014_a_2024.md).
+Per istruzioni su come aggiornare i personaggi da D&D 5e 2014 a 2024 su D&D Beyond, consulta la nostra guida complementare: [Aggiornamento Personaggi da 2014 a 2024](./Guida_Passo_Passo_per_Aggiornare.md).
 
 Questa guida è rivolta a giocatori esperti di Dungeons & Dragons 5e (2014) che conoscono bene le meccaniche ma potrebbero trascurare i cambiamenti introdotti nella versione 2024. L'obiettivo è evidenziare le modifiche al flusso di gioco che influenzano il combattimento, l'esplorazione e la gestione delle risorse, concentrandosi su dettagli che un giocatore disattento potrebbe sorvolare, credendo di sapere già tutto. Non include modifiche ai singoli incantesimi, ma copre meccaniche di gioco cruciali come la sorpresa, l'esaurimento, la Maestria delle Armi e il movimento, con confronti dettagliati tra le regole 2014 e 2024.
 
