@@ -138,11 +138,11 @@ Il movimento è stato reso più fluido nel 2024, influenzando il posizionamento 
 
 - **Muoversi Attraverso Spazi di Alleati**: Nel 2014, muoversi attraverso lo spazio di qualsiasi creatura, inclusi alleati, era considerato terreno difficile, costando movimento extra, come nelle [Regole Base 2014 - Combattimento](https://roll20.net/compendium/dnd5e/Free%20Basic%20Rules%20(2014)#content). Nel 2024, puoi muoverti liberamente attraverso lo spazio di un alleato senza che sia terreno difficile, come nelle [Regole Base Gratuite 2024 - Combattimento](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)). 
 
- **Impatto**: Facilita il posizionamento, permettendo di raggiungere nemici o posizioni ottimali più facilmente. 
+  **Impatto**: Facilita il posizionamento, permettendo di raggiungere nemici o posizioni ottimali più facilmente. 
 
- **Esempio Comparativo**: Se un guerriero deve passare accanto a un alleato per attaccare un nemico, nel 2014 avrebbe speso movimento extra, potenzialmente non raggiungendo il bersaglio o non avendo abbastanza movimento per altre azioni. Nel 2024, può farlo senza penalità, mantenendo i suoi 30 piedi di velocità. 
+  **Esempio Comparativo**: Se un guerriero deve passare accanto a un alleato per attaccare un nemico, nel 2014 avrebbe speso movimento extra, potenzialmente non raggiungendo il bersaglio o non avendo abbastanza movimento per altre azioni. Nel 2024, può farlo senza penalità, mantenendo i suoi 30 piedi di velocità. 
 
- **Confronto**: Nel 2014, un guerriero con 30 piedi di velocità, passando accanto a un alleato, avrebbe 15 piedi di movimento rimanente se lo spazio era difficile, mentre nel 2024 mantiene i 30 piedi, permettendo più opzioni tattiche.
+  **Confronto**: Nel 2014, un guerriero con 30 piedi di velocità, passando accanto a un alleato, avrebbe 15 piedi di movimento rimanente se lo spazio era difficile, mentre nel 2024 mantiene i 30 piedi, permettendo più opzioni tattiche.
 
 - **Muoversi Tra Attacchi**: Nel 2014, era possibile muovere tra attacchi con Extra Attack, ma non sempre esplicitamente chiarito, come nelle [Regole Base 2014 - Combattimento](https://roll20.net/compendium/dnd5e/Free%20Basic%20Rules%20(2014)#content). Nel 2024, è esplicitamente dichiarato che puoi muoverti tra attacchi fatti con la stessa azione, come nelle [Regole Base Gratuite 2024 - Combattimento](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)). 
 
