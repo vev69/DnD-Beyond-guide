@@ -185,7 +185,8 @@ Il movimento è stato reso più fluido nel 2024, influenzando il posizionamento 
  
   **Esempio**: Un guerriero con Extra Attack può muoversi 10 piedi, attaccare, muoversi altri 10 piedi e attaccare di nuovo, purché abbia movimento sufficiente, una tattica più chiara nel 2024.
 
-- **Esaurimento e Velocità**: Nel 2014, la velocità era dimezzata al secondo livello di esaurimento e ridotta a 0 al quinto. Nel 2024, ogni livello di esaurimento riduce la velocità di 5 piedi, a partire dal primo. 
+- **Esaurimento e Velocità**: Nel 2014, la velocità era dimezzata al secondo livello di esaurimento e ridotta a 0 al quinto. Nel 2024, ogni livello di esaurimento riduce la velocità di 5 piedi, a partire dal primo.
+ 
  **Impatto**: Anche un solo livello di esaurimento influisce sulla mobilità, rendendo l’esaurimento più impattante fin dall’inizio. 
  
  **Esempio Comparativo**: Un personaggio con 30 piedi di velocità e 1 livello di esaurimento nel 2024 ha 25 piedi di velocità, mentre nel 2014 avrebbe mantenuto 30 piedi fino al secondo livello, dove scende a 15 piedi. Con 2 livelli, nel 2024 ha 20 piedi, più graduale ma penalizzante prima.
