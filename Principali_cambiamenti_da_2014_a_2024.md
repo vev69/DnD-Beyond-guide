@@ -127,6 +127,7 @@ Introdotta nel 2024, la Maestria delle Armi permette a classi marziali (Barbari,
  - **Danno Aggiuntivo**: *Cleave* e *Nick* aumentano il potenziale di danno contro più bersagli o con attacchi rapidi.
  - **Vantaggi Tattici**: *Vex* e *Sap* migliorano la precisione o penalizzano i nemici, offrendo superiorità tattica.
  - **Flessibilità**: Cambiare armi masterizzate dopo un riposo lungo permette di adattarsi a situazioni diverse.
+ 
 **Confronto con 2014**: Nel 2014, le armi avevano proprietà come Leggera o Versatile, ma nessuna mastery property, rendendo la scelta meno strategica, come nelle [Regole Base 2014 - Armi](https://roll20.net/compendium/dnd5e/Free%20Basic%20Rules%20(2014)#content). **Esempio Comparativo**: Un guerriero con una battaglia ascia nel 2014 sceglieva per danno e portata; nel 2024, con *Cleave*, può attaccare un secondo nemico vicino, cambiando la dinamica di gruppo. **Esempio Pratico**: Un ranger con un arco lungo masterizzato (*Vex*) colpisce un nemico, ottenendo vantaggio sul prossimo attacco, migliorando la probabilità di colpire di nuovo. **Attenzione**: Potresti ignorare queste opzioni, scegliendo armi per abitudine senza considerare gli effetti di mastery. **Perché è Importante**: Weapon Mastery aggiunge profondità tattica, permettendo ai personaggi marziali di influenzare il campo di battaglia in modi prima riservati ai caster. Per dettagli, consulta [Regole Base Gratuite 2024 - Armi](https://roll20.net/compendium/dnd5e/Rules:Free%20Basic%20Rules%20(2024)).
 
 [Torna al Sommario](#sommario)
