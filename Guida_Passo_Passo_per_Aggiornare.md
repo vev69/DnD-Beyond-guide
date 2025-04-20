@@ -299,7 +299,7 @@ Questa tabella mostra come le caratteristiche della Scuola di Necromanzia (2014)
 ---
 
 ## Risorse Utili
-- **Manuale del Giocatore 2024:** Disponibile su D&D Beyond, con versione in italiano prevista per marzo 2025 ([Preorder Manuale del Giocatore in Italiano](https://www.terradeigiochi.it/preorder/10172-dungeons-dragons-manuale-del-giocatore-in-italiano-preorder-9780786969678.html)).
+- **Manuale del Giocatore 2024:** Disponibile su D&D Beyond, con versione in italiano prevista per maggio 2025 ([Preorder Manuale del Giocatore in Italiano](https://www.terradeigiochi.it/preorder/10172-dungeons-dragons-manuale-del-giocatore-in-italiano-preorder-9780786969678.html)).
 - **Guide Online:**
   - [PSA: Here's how to update your D&D Beyond Character from 2014 to 2024](https://www.reddit.com/r/DnD/comments/1f9b05g/psa_heres_how_to_update_your_dd_beyond_character/)
   - [How To Change Your DnD Character To 2024 Rules](https://startplaying.games/blog/posts/how-to-change-dnd-character-sheet-2024-rules-dd-beyond)
